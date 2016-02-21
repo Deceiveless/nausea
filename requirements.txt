@@ -1,0 +1,6 @@
+peewee==2.8.0
+nltk==3.1
+pytils==0.3
+# For tests:
+testfixtures==4.9.0
+mock==1.0.1
